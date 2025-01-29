@@ -1,5 +1,3 @@
-Here's an improved and visually appealing version of your README content:
-
 ---
 
 # **U-Net Nuclei Segmentation**  
