@@ -51,5 +51,3 @@ Here’s an example of the segmentation output: vall accuracy and train accuracy
 - [Original U-Net Paper](https://arxiv.org/pdf/1505.04597v1)  
 
 ---  
-
-This layout emphasizes clarity and aesthetics, ensuring the README is both professional and easy to navigate. Let me know if you’d like further enhancements!
